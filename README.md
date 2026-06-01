@@ -38,3 +38,6 @@
 - [WBS 및 일정](docs/wbs.md)
 - [회의록 목록](docs/meetings/)
 - [M1기획서](docs/M1.md)
+- [유스케이스](docs/UML.md)
+- [클래스](docs/Class_diagram.md)
+- 
