@@ -42,4 +42,4 @@
 - [클래스](docs/Class_diagram.md)
 - [모듈설계](docs/module_design.md)
 - [패키지 다이어그램](docs/Package_Diagram.png)
-- [AI 로그](AI log)
+- [AI 로그](https://github.com/ruffy0611/sw-danungs_healthcare/tree/main/AI%20log)
