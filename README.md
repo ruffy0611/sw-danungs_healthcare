@@ -30,7 +30,7 @@
 
 - [M1 기획](https://github.com/ruffy0611/sw-danungs_healthcare/milestone/1)
 - [M2 설계](https://github.com/ruffy0611/sw-danungs_healthcare/milestone/2)
-- [M3 구현·보고](https://github.com/ruffy0611/sw-danungs_healthcare/milestone/3)
+- [M3 구현·보고](docs/M3.md)
 
 ## 문서
 
